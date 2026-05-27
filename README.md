@@ -195,7 +195,7 @@ ficheros WAVE estéreo.
 
 #### Comprobación del funcionamiento
 
-![Archivos que se han creado despues de ejecutar](creadas.jpeg
+![Archivos que se han creado despues de ejecutar](creadas.jpeg)
 ![Comprobación de los ejercicios](COMPROBACION.jpeg)
 
 #### Código desarrollado
